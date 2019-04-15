@@ -1,0 +1,38 @@
+body {
+  background-color: #D8FED0;
+}
+#ftoPerfil{
+	float: left;
+}
+
+#tituloPrincipal{
+  color: #05E508;
+  font-size: 60px;
+  text-align: center;
+}
+
+.subtitulos{
+  color: #4FDE38;
+  font-size: 40px;
+}
+
+#nombre{ 
+   line-height: 15; 
+}
+p{
+  font-family: Comic Sans MS
+}
+
+li {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;    
+  line-height: 2;
+  letter-spacing: 2px;
+}
+
+table{
+  text-align: center;
+}
+
+#elbienyo{
+  float: center; 
+}
